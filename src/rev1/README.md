@@ -27,7 +27,7 @@
             > [A century of physics](https://www.nature.com/articles/nphys3494)
     - つまり、研究者の論文探索はより狭い領域を通時的に追うことが増えている（研究者の極端な専門化、それくらいしないと差別化できない)
     - 2000年以降Sleeping Beautyは少なくなっていることからも [Sleeping beauties gain impact in overdrive mode](https://link.springer.com/article/10.1007/s11192-021-03910-5)、遠すぎない他の分野によって発見されることが本当はSleeping Beautyに必要だったのではないか
-        ![rev1-1](src/rev1/rev1-1.png)
+        ![rev1-1](rev1-1.png)
 
 - Serendipity(要サーベイ)
 
