@@ -5,7 +5,7 @@
 
 ## 問い
 
-- [なぜ重要な発見が最初に評価されないことがあるのか？](/src/rev1)
+- [なぜ重要な発見が最初に評価されないことがあるのか？](/src/rev1/README.md)
 - [なぜ眠っていた論文が急にバーストすることがあるのか？](/src/rev2/README.md)
 - [なぜSleeping Beautyを見つけることは重要なのか？](/src/rev3/README.md)
 - Sleeping Beautyのように後から認められた論文は分野を作りやすいのか？
