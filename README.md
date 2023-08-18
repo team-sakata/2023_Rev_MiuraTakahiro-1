@@ -5,13 +5,14 @@
 
 ## 問い
 
-- [なぜ重要な発見が最初に評価されないことがあるのか？](/src/rev1)
+- [なぜ重要な発見が最初に評価されないことがあるのか？](/src/rev1/README.md)
 - [なぜ眠っていた論文が急にバーストすることがあるのか？](/src/rev2/README.md)
 - [なぜSleeping Beautyを見つけることは重要なのか？](/src/rev3/README.md)
-- Sleeping Beautyのように後から認められた論文は分野を作りやすいのか？
+- [Sleeping Beautyのように後から認められた論文は分野を作りやすいのか？]()
 - Sleeping Beautyはどれくらいあるのか？
 - Sleeping Beautyは誰が書くのか？ Princeは誰が書く？
 - 今後Sleeping Beautyは増えるのか？それとも減るのか？
+- [論文数の増加がもたらした弊害](/src/rev4/README.md)
 
 ## Awesome
   
