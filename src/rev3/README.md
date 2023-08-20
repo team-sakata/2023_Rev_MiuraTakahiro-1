@@ -1,6 +1,6 @@
 # なぜSleeping Beautyを見つけることは重要なのか？
 
-## 大量の論文の中から自分の研究に関係ある論文を読むために、時間と引用を用いたスクリーニングがよく行われており、本来価値ある研究でもsleepしていると参照されない
+## 大量の論文の中から自分の研究に関係ある論文を読むために、時間と引用を用いたスクリーニングがよく行われており、本来価値ある研究でも、古くなったり引用されていないと参照されない
 
 - そもそも研究者は新しい論文をよく読み、古い論文はあまり読まない
     - [Scholarly journal information-seeking and reading patterns of faculty at five US universities, Fig.13](https://onlinelibrary.wiley.com/doi/abs/10.1087/2009208)
@@ -34,8 +34,9 @@
     - 2013年に投稿された論文のうち、36%は10年以上前のもの。[On the Shoulders of Giants: The Growing Impact of Older Articles](https://arxiv.org/pdf/1411.0275.pdf)
         > A team of researchers at Google has documented a surge in the citation rate for older papers. The study found that 36% of citations in 2013 were to papers that were at least 10 years old — a 28% increase since 1990. Scientists had a range of responses online. Carlos Baquero, a computer scientist at the University of Minho in Braga, Portugal, tweeted: “Older articles are now more accessible and thus their impact has grown. Knowledge escapes tyranny of time.”
         - ![10年以上前の論文の引用割合](fig_verstak2014-1.png)
-            - **##TODO## これ自分で出した方が良い**
-                - [Yian Yinの論文](https://www.sciencedirect.com/science/article/pii/S1751157717300020)だと10%くらいしか引用しないので、何かが違う。verstakは引用文化が違うEngineering, CSを外していることと、ある程度インパクトのあるジャーナルに絞っているようなのでそれが違いかも？
+            - [Yian Yinの論文](https://www.sciencedirect.com/science/article/pii/S1751157717300020)だと10%くらいしか引用しないので、何かが違う。verstakは引用文化が違うEngineering, CSを外していることと、ある程度インパクトのあるジャーナルに絞っているようなのでそれが違いかも？
+            - ![自分で計算したもの](fig__ref_age.png)
+            - 手元のscopusで計算すると、35%くらいになるので、Yian Yinが違いそう。WoSだからか？
 
 - 引用されていない論文の価値
     - 引用されていない論文のうち、数%は引用慣習的に見つかっていないだけ。inhomogenious poisson processで自然に起こる [Uncited papers are not useless]()
