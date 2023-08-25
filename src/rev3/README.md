@@ -7,6 +7,8 @@
         - ![何年前の論文をよく読むか](fig_king2009-2.png) 
     - 引用文献の古さは指数分布に従う [The time dimension of science: Connecting the past to the future](https://www.sciencedirect.com/science/article/pii/S1751157717300020)
     - 月30本くらい読むので、古い論文は月1,2本読めば良い方 [論文数の増加がもたらした弊害, #論文が読みきれない](../rev4/README.md)
+    - 最近はreference ageが上がっている、つまり古い論文をよく引用するようになっていることが報告されているが[Long-term variations in the aging of scientific literature: From exponential growth to steady-state science (1900–2004)](), [On the Shoulders of Giants: The Growing Impact of Older Articles](https://arxiv.org/pdf/1411.0275.pdf)、これは完全にランダムに引用するモデルでも論文数が指数で増えると古い論文への引用が増えることで説明できてしまう[Egghe, L., “A model showing the increase in time of the average and median reference age and the decrease in time of the price index,” Scientometrics 82, 243–248 (2010).](), 。
+        - 論文数の増加によって、引用される有効期限はどんどん短くなっている。むしろ、論文数だけで説明できる。　[Parolo, P. D. B., Pan, R. K., Ghosh, R., Huberman, B. A., Kaski, K., and Fortunato, S., “Attention decay in science,” J. Informetr. 9, 734–745 (2015).]()
 
 - また研究者は引用されている論文をよく読み、引用されていない論文をあまり読まない
     - 他の論文の引用に登場したから読むのは15.9% [Scholarly journal information-seeking and reading patterns of faculty at five US universities, Fig.7](https://onlinelibrary.wiley.com/doi/abs/10.1087/2009208)
@@ -17,7 +19,7 @@
 
 - さらに論文の数は爆発的に大きくなっている中で、サラミ出版・ハゲタカジャーナル・再現性の危機により質は保証されなくなってきていて[(論文数の増加がもたらした弊害)](../rev4/README.md)、新しく、被引用数が高く、有名誌に出るような論文以外は読む時間と体力がなくなってきている
     - (主観的に)有名誌以外は読まない、その中でも特に面白そうなもののみ。(吉田先生も言っていた、Dashunもトップ以外興味なし)
-    - 日本では研究専従時間が減少しており、論文数伸びに対してキャッチアップが難しくなっている。研究パフォーマンスの制約についても、H30年時点では研究時間が76.4%で最多回答。 [文科省]((https://www.mext.go.jp/b_menu/hakusho/html/hpaa202201/1421221_00005.html))
+    - 日本では研究専従時間が減少しており、論文数伸びに対してキャッチアップが難しくなっている。研究パフォーマンスの制約についても、H30年時点では研究時間が76.4%で最多回答。 [文科省](https://www.mext.go.jp/b_menu/hakusho/html/hpaa202201/1421221_00005.html)
         - ![文科省](fig_mextR4-1.png) 
         - ##TODO## 海外のエビデンスがあれば
     - ##TODO## 有名誌以外読まなくなっているというエビデンス
