@@ -57,12 +57,7 @@
 
 - 中国の研究評価システムでは、論文のインパクトを5年で決めている[Research on the Identification and Awakening of the Phenomenon of "Sleeping Beauty" in Educational Technology]()
 - ##TODO## 小粒な研究が増えているのはどの国も同じなのか？体感、大きな研究室以外はどこもそう。インディアナでもそう。
-
-## 
 - Sleeping Beautyは、ユニークなknowledge diffusion patternの一種であり、knowledge difusionは分野の発展やイノベーションに必要である [Identifying keyword sleeping beauties: A perspective on the knowledge diﬀusion process]()
 
 ## 所感
 - 今後発展しそうな内容、批判、他の研究とのつながりなど
-
-日本以外の国も超トップ研究室以外小粒なイメージがあり、小粒なこと自体が問題というよりは「日本の小粒」がうまくいっていないことが問題なようにも思います。海外の小粒は小規模ながらも、ある程度期間が長いか社会が関心を寄せる問題意識に貢献するから良いと感じているのですが、「日本のような質の低い小粒の問題は評価が短期で規模が小さ過ぎるからだ」という言説はしっくりきますか。短期のプロジェクトでも成功する事例はありますが、長期のプロジェクトを特に推奨する理由はありますか。
-予算規模の縮小・短期間の研究プロジェクトの推奨による、基礎研究体力の低下が特に指摘されることが多いですが、では長期のプロジェクトを増やしたら10年後くらいにはホームランは増えると思いますか。Sleeping beautyを探すことは、本当に研究力の向上に貢献するのでしょうか。
